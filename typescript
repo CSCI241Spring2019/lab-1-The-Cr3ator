@@ -1,0 +1,580 @@
+Script started on Thu 18 Apr 2019 01:06:11 PM PDT
+mayb4@cf420-35:~$ ls
+badCode.py  lab1-Brendan-May	      lab4				  Sublime Text 2
+csci241     Lab2		      Music				  Templates
+Desktop     lab2-Brendan-May	      Pictures				  typescript
+Documents   lab3		      project1-bka-brendan-kelvin-adrian  Videos
+Downloads   lab3-updated-Brendan-May  Public
+mayb4@cf420-35:~$ csci241[Ccsci241dcsci241 csci241
+mayb4@cf420-35:~/csci241$ ls
+lab-1-The-Cr3ator
+mayb4@cf420-35:~/csci241$ rm lab-1-The-Cr3ator/
+rm: cannot remove 'lab-1-The-Cr3ator/': Is a directory
+mayb4@cf420-35:~/csci241$ git config --global The-Cr3ator "Brendan May"
+error: key does not contain a section: The-Cr3ator
+mayb4@cf420-35:~/csci241$ git config --global The-Cr3ator "Brendan May"[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@u[1@s[1@e[1@r[1@n[1@a[1@m[1@e[1@.
+mayb4@cf420-35:~/csci241$ git config --global user.name "Brendan May"[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kemail mayb4@wwu.edu
+mayb4@cf420-35:~/csci241$ cd lab-1-The-Cr3ator/
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ cd lab-1-The-Cr3ator/git config --global user.email mayb4@wwu.edu[1Pname "Brendan May"
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git config --global user.name "Brendan May"[22Pcd lab-1-The-Cr3ator/git config --global user.email mayb4@wwu.edu
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ touch write[K[K[K[K[K[K[K[K[K[K[Kls
+build  build.gradle  src  writeup.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git add writeup.txrt[K[Kt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git commit -m added[K[K[K[K[K"added empty we[Kriteup"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	[31m.gradle/[m
+	[31mbuild/[m
+	[31msrc/.gradle/[m
+	[31msrc/main/java/lab1/.gradle/[m
+	[31msrc/main/java/lab1/Hello.class[m
+
+nothing added to commit but untracked files present
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': The-Cr3ator
+Password for 'https://The-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Th3-  e-Cr3ator
+Password for 'https://The-Cr3ator@github.com': 
+Everything up-to-date
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ vim writeup.txt
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;67r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[67;1H"writeup.txt" 0L, 0C[>c[2;1H[94m~                                                                                                    [3;1H~                                                                                                    [4;1H~                                                                                                    [5;1H~                                                                                                    [6;1H~                                                                                                    [7;1H~                                                                                                    [8;1H~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [31;1H~                                                                                                    [32;1H~                                                                                                    [33;1H~                                                                                                    [34;1H~                                                                                                    [35;1H~                                                                                                    [36;1H~                                                                                                    [37;1H~                                                                                                    [38;1H~                                                                                                    [39;1H~                                                                                                    [40;1H~                                                                                                    [41;1H~                                                                                                    [42;1H~                                                                                                    [43;1H~                                                                                                    [44;1H~                                                                                                    [45;1H~                                                                                                    [46;1H~                                                                                                    [47;1H~                                                                                                    [48;1H~                                                                                                    [49;1H~                                                                                                    [50;1H~                                                                                                    [51;1H~                                                                                                    [52;1H~                                                                                                    [53;1H~                                                                                                    [54;1H~                                                                                                    [55;1H~                                                                                                    [56;1H~                                                                                                    [57;1H~                                                                                                    [58;1H~                                                                                                    [59;1H~                                                                                                    [60;1H~                                                                                                    [61;1H~                                                                                                    [62;1H~                                                                                                    [63;1H~                                                                                                    [64;1H~                                                                                                    [65;1H~                                                                                                    [66;1H~                                                                                                    [m[67;84H0,0-1[9CAll]2;writeup.txt (~/csci241/lab-1-The-Cr3ator) - VIM]1;writeup.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[2;1H[94m~                                                                                                    [3;1H~                                                                                                    [4;1H~                                                                                                    [5;1H~                                                                                                    [6;1H~                                                                                                    [7;1H~                                                                                                    [8;1H~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [31;1H~                                                                                                    [32;1H~                                                                                                    [33;1H~                                                                                                    [34;1H~                                                                                                    [35;1H~                                                                                                    [36;1H~                                                                                                    [37;1H~                                                                                                    [38;1H~                                                                                                    [39;1H~                                                                                                    [40;1H~                                                                                                    [41;1H~                                                                                                    [42;1H~                                                                                                    [43;1H~                                                                                                    [44;1H~                                                                                                    [45;1H~                                                                                                    [46;1H~                                                                                                    [47;1H~                                                                                                    [48;1H~                                                                                                    [49;1H~                                                                                                    [50;1H~                                                                                                    [51;1H~                                                                                                    [52;1H~                                                                                                    [53;1H~                                                                                                    [54;1H~                                                                                                    [55;1H~                                                                                                    [56;1H~                                                                                                    [57;1H~                                                                                                    [58;1H~                                                                                                    [59;1H~                                                                                                    [60;1H~                                                                                                    [61;1H~                                                                                                    [62;1H~                                                                                                    [63;1H~                                                                                                    [64;1H~                                                                                                    [65;1H~                                                                                                    [66;1H~                                                                                                    [m[67;84H0,0-1[9CAll"writeup.txt" 0L, 0C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[67;1H[1m-- INSERT --[m[67;13H[K[67;84H0,1[11CAll[1;1H[?12l[?25h[?25l1[67;84H1,2]2;writeup.txt + (~/csci241/lab-1-The-Cr3ator) - VIM]1;writeup.txt[1;2H[?12l[?25h[?25l)[67;86H3[1;3H[?12l[?25h[?25l[67;86H4[1;4H[?12l[?25h[?25lB[67;86H5[1;5H[?12l[?25h[?25lr[67;86H6[1;6H[?12l[?25h[?25le[67;86H7[1;7H[?12l[?25h[?25ln[67;86H8[1;8H[?12l[?25h[?25ld[67;86H9[1;9H[?12l[?25h[?25la[67;86H10[1;10H[?12l[?25h[?25ln[67;87H1[1;11H[?12l[?25h[?25l[67;87H2[1;12H[?12l[?25h[?25lM[67;87H3[1;13H[?12l[?25h[?25la[67;87H4[1;14H[?12l[?25h[?25ly[67;87H5[1;15H[?12l[?25h[67;1H[K[1;14H[?25l[67;84H1,14[10CAll[1;14H[?12l[?25h[?25l[67;84H[K[67;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"writeup.txt" 1L, 15C written]2;Terminal]1;Terminal
+[?1l>[?12l[?25h[?1049lmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git commit-[K -m "added part 1(namaes[K[K[Kes) to writeup"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	[31mmodified:   writeup.txt[m
+
+Untracked files:
+	[31m.gradle/[m
+	[31mbuild/[m
+	[31msrc/.gradle/[m
+	[31msrc/main/java/lab1/.gradle/[m
+	[31msrc/main/java/lab1/Hello.class[m
+
+no changes added to commit
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git commit -m "added part 1(names) to writeup"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim writeup.txt[K[7Pgit pushvim writeup.txtgit commit -m "added part 1(names) to writeup"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   writeup.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gradle/[m
+	[31mbuild/[m
+	[31msrc/.gradle/[m
+	[31msrc/main/java/lab1/.gradle/[m
+	[31msrc/main/java/lab1/Hello.class[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ cd ..
+mayb4@cf420-35:~/csci241$ cd ..git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mlab-1-The-Cr3ator/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+mayb4@cf420-35:~/csci241$ 
+mayb4@cf420-35:~/csci241$ cd lab-1-The-Cr3ator/
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ cd lab-1-The-Cr3ator/[11Pgit status[5Pcd ..git statuscommit -m "added part 1(names) to writeup"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim writeup.txt[K
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;67r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[67;1H"writeup.txt" 1L, 15C[>c[1;1H1) Brendan May
+[94m~                                                                                                    [3;1H~                                                                                                    [4;1H~                                                                                                    [5;1H~                                                                                                    [6;1H~                                                                                                    [7;1H~                                                                                                    [8;1H~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [31;1H~                                                                                                    [32;1H~                                                                                                    [33;1H~                                                                                                    [34;1H~                                                                                                    [35;1H~                                                                                                    [36;1H~                                                                                                    [37;1H~                                                                                                    [38;1H~                                                                                                    [39;1H~                                                                                                    [40;1H~                                                                                                    [41;1H~                                                                                                    [42;1H~                                                                                                    [43;1H~                                                                                                    [44;1H~                                                                                                    [45;1H~                                                                                                    [46;1H~                                                                                                    [47;1H~                                                                                                    [48;1H~                                                                                                    [49;1H~                                                                                                    [50;1H~                                                                                                    [51;1H~                                                                                                    [52;1H~                                                                                                    [53;1H~                                                                                                    [54;1H~                                                                                                    [55;1H~                                                                                                    [56;1H~                                                                                                    [57;1H~                                                                                                    [58;1H~                                                                                                    [59;1H~                                                                                                    [60;1H~                                                                                                    [61;1H~                                                                                                    [62;1H~                                                                                                    [63;1H~                                                                                                    [64;1H~                                                                                                    [65;1H~                                                                                                    [66;1H~                                                                                                    [m[67;84H1,1[11CAll]2;writeup.txt (~/csci241/lab-1-The-Cr3ator) - VIM]1;writeup.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[1;1H1) Brendan May
+[94m~                                                                                                    [3;1H~                                                                                                    [4;1H~                                                                                                    [5;1H~                                                                                                    [6;1H~                                                                                                    [7;1H~                                                                                                    [8;1H~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [31;1H~                                                                                                    [32;1H~                                                                                                    [33;1H~                                                                                                    [34;1H~                                                                                                    [35;1H~                                                                                                    [36;1H~                                                                                                    [37;1H~                                                                                                    [38;1H~                                                                                                    [39;1H~                                                                                                    [40;1H~                                                                                                    [41;1H~                                                                                                    [42;1H~                                                                                                    [43;1H~                                                                                                    [44;1H~                                                                                                    [45;1H~                                                                                                    [46;1H~                                                                                                    [47;1H~                                                                                                    [48;1H~                                                                                                    [49;1H~                                                                                                    [50;1H~                                                                                                    [51;1H~                                                                                                    [52;1H~                                                                                                    [53;1H~                                                                                                    [54;1H~                                                                                                    [55;1H~                                                                                                    [56;1H~                                                                                                    [57;1H~                                                                                                    [58;1H~                                                                                                    [59;1H~                                                                                                    [60;1H~                                                                                                    [61;1H~                                                                                                    [62;1H~                                                                                                    [63;1H~                                                                                                    [64;1H~                                                                                                    [65;1H~                                                                                                    [66;1H~                                                                                                    [m[67;84H1,1[11CAll"writeup.txt" 1L, 15C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[67;1H[1m-- INSERT --[m[67;13H[K[67;84H1,1[11CAll[1;1H[?12l[?25h[?25l[67;86H2[1;2H[?12l[?25h[?25l[67;86H3[1;3H[?12l[?25h[?25l[67;86H4[1;4H[?12l[?25h[?25l[67;86H5[1;5H[?12l[?25h[?25l[67;86H6[1;6H[?12l[?25h[?25l[67;86H7[1;7H[?12l[?25h[?25l[67;86H8[1;8H[?12l[?25h[?25l[67;86H9[1;9H[?12l[?25h[?25l[67;86H10[1;10H[?12l[?25h[?25l[67;87H1[1;11H[?12l[?25h[?25l[67;87H2[1;12H[?12l[?25h[?25l[67;87H3[1;13H[?12l[?25h[?25l[67;87H4[1;14H[?12l[?25h[?25l[67;87H5[1;15H[?12l[?25h[?25l[2;1H[K[67;84H2,1 ]2;writeup.txt + (~/csci241/lab-1-The-Cr3ator) - VIM]1;writeup.txt[2;1H[?12l[?25h[?25l2[67;86H2[2;2H[?12l[?25h[?25l)[67;86H3[2;3H[?12l[?25h[?25l[67;86H4[2;4H[?12l[?25h[?25lH[67;86H5[2;5H[?12l[?25h[?25lo[67;86H6[2;6H[?12l[?25h[?25lp[67;86H7[2;7H[?12l[?25h[?25lp[67;86H8[2;8H[?12l[?25h[?25ly[67;86H9[2;9H[?12l[?25h[?25l[2;8H[K[67;86H8[2;8H[?12l[?25h[?25l[2;7H[K[67;86H7[2;7H[?12l[?25h[?25l[2;6H[K[67;86H6[2;6H[?12l[?25h[?25lb[67;86H7[2;7H[?12l[?25h[?25lb[67;86H8[2;8H[?12l[?25h[?25ly[67;86H9[2;9H[?12l[?25h[?25l:[67;86H10[2;10H[?12l[?25h[?25l[67;87H1[2;11H[?12l[?25h[?25lI[67;87H2[2;12H[?12l[?25h[?25l[67;87H3[2;13H[?12l[?25h[?25lp[67;87H4[2;14H[?12l[?25h[?25ll[67;87H5[2;15H[?12l[?25h[?25la[67;87H6[2;16H[?12l[?25h[?25ly[67;87H7[2;17H[?12l[?25h[?25l[67;87H8[2;18H[?12l[?25h[?25lD[67;87H9[2;19H[?12l[?25h[?25lu[67;86H20[2;20H[?12l[?25h[?25ln[67;87H1[2;21H[?12l[?25h[?25lg[67;87H2[2;22H[?12l[?25h[?25le[67;87H3[2;23H[?12l[?25h[?25lo[67;87H4[2;24H[?12l[?25h[?25ln[67;87H5[2;25H[?12l[?25h[?25ls[67;87H6[2;26H[?12l[?25h[?25l[67;87H7[2;27H[?12l[?25h[?25la[67;87H8[2;28H[?12l[?25h[?25ln[67;87H9[2;29H[?12l[?25h[?25ld[67;86H30[2;30H[?12l[?25h[?25l[67;87H1[2;31H[?12l[?25h[?25lD[67;87H2[2;32H[?12l[?25h[?25lr[67;87H3[2;33H[?12l[?25h[?25la[67;87H4[2;34H[?12l[?25h[?25lg[67;87H5[2;35H[?12l[?25h[?25lo[67;87H6[2;36H[?12l[?25h[?25ln[67;87H7[2;37H[?12l[?25h[?25ls[67;87H8[2;38H[?12l[?25h[67;1H[K[2;37H[?25l[67;84H2,37[10CAll[2;37H[?12l[?25h[?25l[67;84H[K[67;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"writeup.txt" 2L, 53C written]2;Terminal]1;Terminal
+[?1l>[?12l[?25h[?1049lmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ ls
+build  build.gradle  src  writeup.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ touch username.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ ls
+build  build.gradle  src  username.txt	writeup.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ vim username.txt 
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;67r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[67;1H"username.txt" 0L, 0C[>c[2;1H[94m~                                                                                                    [3;1H~                                                                                                    [4;1H~                                                                                                    [5;1H~                                                                                                    [6;1H~                                                                                                    [7;1H~                                                                                                    [8;1H~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [31;1H~                                                                                                    [32;1H~                                                                                                    [33;1H~                                                                                                    [34;1H~                                                                                                    [35;1H~                                                                                                    [36;1H~                                                                                                    [37;1H~                                                                                                    [38;1H~                                                                                                    [39;1H~                                                                                                    [40;1H~                                                                                                    [41;1H~                                                                                                    [42;1H~                                                                                                    [43;1H~                                                                                                    [44;1H~                                                                                                    [45;1H~                                                                                                    [46;1H~                                                                                                    [47;1H~                                                                                                    [48;1H~                                                                                                    [49;1H~                                                                                                    [50;1H~                                                                                                    [51;1H~                                                                                                    [52;1H~                                                                                                    [53;1H~                                                                                                    [54;1H~                                                                                                    [55;1H~                                                                                                    [56;1H~                                                                                                    [57;1H~                                                                                                    [58;1H~                                                                                                    [59;1H~                                                                                                    [60;1H~                                                                                                    [61;1H~                                                                                                    [62;1H~                                                                                                    [63;1H~                                                                                                    [64;1H~                                                                                                    [65;1H~                                                                                                    [66;1H~                                                                                                    [m[67;84H0,0-1[9CAll]2;username.txt (~/csci241/lab-1-The-Cr3ator) - VIM]1;username.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[2;1H[94m~                                                                                                    [3;1H~                                                                                                    [4;1H~                                                                                                    [5;1H~                                                                                                    [6;1H~                                                                                                    [7;1H~                                                                                                    [8;1H~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [31;1H~                                                                                                    [32;1H~                                                                                                    [33;1H~                                                                                                    [34;1H~                                                                                                    [35;1H~                                                                                                    [36;1H~                                                                                                    [37;1H~                                                                                                    [38;1H~                                                                                                    [39;1H~                                                                                                    [40;1H~                                                                                                    [41;1H~                                                                                                    [42;1H~                                                                                                    [43;1H~                                                                                                    [44;1H~                                                                                                    [45;1H~                                                                                                    [46;1H~                                                                                                    [47;1H~                                                                                                    [48;1H~                                                                                                    [49;1H~                                                                                                    [50;1H~                                                                                                    [51;1H~                                                                                                    [52;1H~                                                                                                    [53;1H~                                                                                                    [54;1H~                                                                                                    [55;1H~                                                                                                    [56;1H~                                                                                                    [57;1H~                                                                                                    [58;1H~                                                                                                    [59;1H~                                                                                                    [60;1H~                                                                                                    [61;1H~                                                                                                    [62;1H~                                                                                                    [63;1H~                                                                                                    [64;1H~                                                                                                    [65;1H~                                                                                                    [66;1H~                                                                                                    [m[67;84H0,0-1[9CAll"username.txt" 0L, 0C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[67;1H[97m[41mE35: No previous regular expression[m[67;84H[K[67;84H0,0-1[9CAll[1;1H[?12l[?25h[?25l[67;1H[1m-- INSERT --[m[67;13H[K[67;84H0,1[11CAll[1;1H[?12l[?25h[?25lB[67;84H1,2]2;username.txt + (~/csci241/lab-1-The-Cr3ator) - VIM]1;username.txt[1;2H[?12l[?25h[?25lr[67;86H3[1;3H[?12l[?25h[?25le[67;86H4[1;4H[?12l[?25h[?25ln[67;86H5[1;5H[?12l[?25h[?25ld[67;86H6[1;6H[?12l[?25h[?25la[67;86H7[1;7H[?12l[?25h[?25ln[67;86H8[1;8H[?12l[?25h[?25l[67;86H9[1;9H[?12l[?25h[?25lM[67;86H10[1;10H[?12l[?25h[?25la[67;87H1[1;11H[?12l[?25h[?25ly[67;87H2[1;12H[?12l[?25h[?25l,[67;87H3[1;13H[?12l[?25h[?25l[67;87H4[1;14H[?12l[?25h[?25lm[67;87H5[1;15H[?12l[?25h[?25la[67;87H6[1;16H[?12l[?25h[?25ly[67;87H7[1;17H[?12l[?25h[?25lb[67;87H8[1;18H[?12l[?25h[?25l4[67;87H9[1;19H[?12l[?25h[?25l,[67;86H20[1;20H[?12l[?25h[?25l[67;87H1[1;21H[?12l[?25h[?25lT[67;87H2[1;22H[?12l[?25h[?25lh[67;87H3[1;23H[?12l[?25h[?25le[67;87H4[1;24H[?12l[?25h[?25l-[67;87H5[1;25H[?12l[?25h[?25lC[67;87H6[1;26H[?12l[?25h[?25lr[67;87H7[1;27H[?12l[?25h[?25l3[67;87H8[1;28H[?12l[?25h[?25la[67;87H9[1;29H[?12l[?25h[?25lt[67;86H30[1;30H[?12l[?25h[?25lo[67;87H1[1;31H[?12l[?25h[?25lr[67;87H2[1;32H[?12l[?25h[67;1H[K[1;31H[?25l[67;84H1,31[10CAll[1;31H[?12l[?25h[?25l[67;84H[K[67;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"username.txt" 1L, 32C written]2;Terminal]1;Terminal
+[?1l>[?12l[?25h[?1049lmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ vim username.txt ls[Ktouch username.txtls[Kvim writeup.txtcd lab-1-The-Cr3ator/[11Pgit status[5Pcd ..git statuscommit -m "added part 1(names) to writeup"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim writeup.txt[K[7Pgit pushcommit -m "added empty writeup"[16Padd writeup.txtls[Kgit config --global user.email mayb4@wwu.edu[1Pname "Brendan May"[22Pcd lab-1-The-Cr3ator/git config --global user.email mayb4@wwu.edu[1Pname "Brendan May"[2@The-Cr3ator[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Prm lab-1-The-Cr3ator/ls[Kcd csci241ls[Kcd lab-1-The-Cr3ator/ls[Kcd csci241..[K[3Plscd lab1-Brendan-May/ls[Kgit add typescriptexit[Kgit push"[Kgit commit -m "hello now prints line arg[3Padd src/main/java/lab1/Hello.javass[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pradle run --args="241"[K[5Pcd ..gradle run --args="241"it ass src/main/java/lab1/Hello.javadd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "hello now prints line arg"[Kgit push[4Pexitgit add typescriptls[Kcd lab1-Brendan-May/ls[Kcd ..csci241ls[Kcd lab-1-The-Cr3ator/ls[Kcd csci241ls[Krm lab-1-The-Cr3ator/git config --global The-Cr3ator "Brendan May"[2Puser.name[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail mayb4@wwu.edu[23Pcd lab-1-The-Cr3ator/git config --global user.name "Brendan May"email mayb4@wwu.eduls[Kgit add writeup.txtcommit -m "added empty writeup"push[Kvim writeup.txtgit commit -m "added part 1(names) to writeup"status[K[5Pcd ..git statuscd lab-1-The-Cr3ator/[6Pvim writeup.txtls[Ktouch username.txtls[Kvim username.txt [Kvim username.txt ls[Ktouch username.txtls[Kvim writeup.txtcd lab-1-The-Cr3ator/[11Pgit status[5Pcd ..git statuscommit -m "added part 1(names) to writeup"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim writeup.txt[K[7Pgit pushvim writeup.txt[7Pgit pushcommit -m "added empty writeup"[16Padd writeup.txtls[Kgit add writeup.txt[K[K[K[K[K[K[K[K[K[K[Kusername.txt 
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git add username.txt [4Pvim[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ktouch username.txtls[Ktouch username.txtls[Kvim writeup.txtcd lab-1-The-Cr3ator/[11Pgit status[5Pcd ..git statuscommit -m "added part 1(names) to writeup"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim writeup.txt[K[7Pgit pushvim writeup.txt[1@g[1@i[1@t[1@ [1@p[1@u[1@s[1@h[1P[1P[1P writeup.txt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+fatal: Invalid gitfile format: writeup.txt
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git help
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Forward-port local commits to the updated upstream head
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ [Kmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git checkout -b questo[Kion3
+A	username.txt
+M	writeup.txt
+Switched to a new branch 'question3'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ ls
+build  build.gradle  src  username.txt	writeup.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ vim writeup.txt 
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;40r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[40;1H"writeup.txt" 2L, 53C[>c[1;1H1) Brendan May
+2) Hobby: I play Dungeons and Dragons
+[94m~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [30;1H~                                                                               [31;1H~                                                                               [32;1H~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [m[40;63H1,1[11CAll]2;writeup.txt (~/csci241/lab-1-The-Cr3ator) - VIM]1;writeup.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[1;1H1) Brendan May
+2) Hobby: I play Dungeons and Dragons
+[94m~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [30;1H~                                                                               [31;1H~                                                                               [32;1H~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [m[40;63H1,1[11CAll"writeup.txt" 2L, 53C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[40;1H[1m-- INSERT --[m[40;13H[K[40;63H1,1[11CAll[1;1H[?12l[?25h[?25l[40;65H2[1;2H[?12l[?25h[?25l[40;65H3[1;3H[?12l[?25h[?25l[40;65H4[1;4H[?12l[?25h[?25l[40;65H5[1;5H[?12l[?25h[?25l[40;65H6[1;6H[?12l[?25h[?25l[40;65H7[1;7H[?12l[?25h[?25l[40;65H8[1;8H[?12l[?25h[?25l[40;65H9[1;9H[?12l[?25h[?25l[40;65H10[1;10H[?12l[?25h[?25l[40;66H1[1;11H[?12l[?25h[?25l[40;66H2[1;12H[?12l[?25h[?25l[40;66H3[1;13H[?12l[?25h[?25l[40;66H4[1;14H[?12l[?25h[?25l[40;66H5[1;15H[?12l[?25h[?25l[40;63H2[2;15H[?12l[?25h[?25l[40;66H6[2;16H[?12l[?25h[?25l[40;66H7[2;17H[?12l[?25h[?25l[40;66H8[2;18H[?12l[?25h[?25l[40;66H9[2;19H[?12l[?25h[?25l[40;65H20[2;20H[?12l[?25h[?25l[40;66H1[2;21H[?12l[?25h[?25l[40;66H2[2;22H[?12l[?25h[?25l[40;66H3[2;23H[?12l[?25h[?25l[40;66H4[2;24H[?12l[?25h[?25l[40;66H5[2;25H[?12l[?25h[?25l[40;66H6[2;26H[?12l[?25h[?25l[40;66H7[2;27H[?12l[?25h[?25l[40;66H8[2;28H[?12l[?25h[?25l[40;66H9[2;29H[?12l[?25h[?25l[40;65H30[2;30H[?12l[?25h[?25l[40;66H1[2;31H[?12l[?25h[?25l[40;66H2[2;32H[?12l[?25h[?25l[40;66H3[2;33H[?12l[?25h[?25l[40;66H4[2;34H[?12l[?25h[?25l[40;66H5[2;35H[?12l[?25h[?25l[40;66H6[2;36H[?12l[?25h[?25l[40;66H7[2;37H[?12l[?25h[?25l[40;66H8[2;38H[?12l[?25h[?25l[3;1H[K[40;63H3,1 ]2;writeup.txt + (~/csci241/lab-1-The-Cr3ator) - VIM]1;writeup.txt[3;1H[?12l[?25h[?25l3[40;65H2[3;2H[?12l[?25h[?25l)[40;65H3[3;3H[?12l[?25h[?25l[40;65H4[3;4H[?12l[?25h[?25lF[40;65H5[3;5H[?12l[?25h[?25la[40;65H6[3;6H[?12l[?25h[?25lv[40;65H7[3;7H[?12l[?25h[?25lo[40;65H8[3;8H[?12l[?25h[?25li[40;65H9[3;9H[?12l[?25h[?25l[3;8H[K[40;65H8[3;8H[?12l[?25h[?25lr[40;65H9[3;9H[?12l[?25h[?25li[40;65H10[3;10H[?12l[?25h[?25lt[40;66H1[3;11H[?12l[?25h[?25le[40;66H2[3;12H[?12l[?25h[?25l[40;66H3[3;13H[?12l[?25h[?25ls[40;66H4[3;14H[?12l[?25h[?25lo[40;66H5[3;15H[?12l[?25h[?25ln[40;66H6[3;16H[?12l[?25h[?25lg[40;66H7[3;17H[?12l[?25h[?25l:[40;66H8[3;18H[?12l[?25h[?25l[40;66H9[3;19H[?12l[?25h[?25ld[40;65H20[3;20H[?12l[?25h[?25li[40;66H1[3;21H[?12l[?25h[?25lr[40;66H2[3;22H[?12l[?25h[?25lt[40;66H3[3;23H[?12l[?25h[?25ly[40;66H4[3;24H[?12l[?25h[?25l[40;66H5[3;25H[?12l[?25h[?25lw[40;66H6[3;26H[?12l[?25h[?25lo[40;66H7[3;27H[?12l[?25h[?25lr[40;66H8[3;28H[?12l[?25h[?25lk[40;66H9[3;29H[?12l[?25h[?25l[40;65H30[3;30H[?12l[?25h[?25lb[40;66H1[3;31H[?12l[?25h[?25ly[40;66H2[3;32H[?12l[?25h[?25l[40;66H3[3;33H[?12l[?25h[?25ls[40;66H4[3;34H[?12l[?25h[?25lt[40;66H5[3;35H[?12l[?25h[?25le[40;66H6[3;36H[?12l[?25h[?25la[40;66H7[3;37H[?12l[?25h[?25l[3;36H[K[40;66H6[3;36H[?12l[?25h[?25le[40;66H7[3;37H[?12l[?25h[?25ll[40;66H8[3;38H[?12l[?25h[?25ly[40;66H9[3;39H[?12l[?25h[?25l[40;65H40[3;40H[?12l[?25h[?25ld[40;66H1[3;41H[?12l[?25h[?25la[40;66H2[3;42H[?12l[?25h[?25ln[40;66H3[3;43H[?12l[?25h[40;1H[K[3;42H[?25l[40;63H3,42[10CAll[3;42H[?12l[?25h[?25l[40;63H[K[40;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"writeup.txt" 3L, 96C written]2;Terminal]1;Terminal
+[?1l>[?12l[?25h[?1049lmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git add writeup.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git add writeup.txt[K[K[K[K[K[K[K[K[K[K[Kusername.txt 
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git add username.txt [1P[C[1P[1P[1@p[1@u[1@s[1@h
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+fatal: Invalid gitfile format: username.txt
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git checkout master
+A	username.txt
+M	writeup.txt
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ gradle build
+[0m
+[1AStarting a Gradle Daemon, 1 incompatible and 1 stopped Daemons could not be reused, use --status for details
+
+
+[2A[1B[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A> IDLE[0K[6D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[0K[35D[1B[1m> Loading projects[m[0K[18D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[0K[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [1s][m[37D[1B> IDLE[0K[6D[1B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [1s][m[37D[2B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [1s][m[0K[33D[2B[2A[1m<[0;32;1m==[0;39;1m-----------> 21% EXECUTING [1s][m[34D[1B[1m> :jar[m[6D[1B[2A[1m<[0;32;1m=====[0;39;1m--------> 42% EXECUTING [1s][m[34D[1B[1m> :distZip[m[10D[1B[2A[0K
+[32;1mBUILD SUCCESSFUL[0;39m in 3s
+5 actionable tasks: 3 executed, 2 up-to-date
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :distZip[m[10D[1B[2A[2K[1B[2K[1A[0mmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ gradle build[K[K[K[K[Krun --args="Sup"[K[K[K[K241"
+[0m
+
+[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[0K
+[1m> Task :run[m[0K
+Hello 241
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 1 executed, 1 up-to-date
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :compileJava[m[14D[1B[2A[2K[1B[2K[1A[0mmayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git add src/main/java/lab1/h[KHello.jav a
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ gi c[K[K[Kit commit -m "Hello nowm [[Kpr[K[K[K[K prints comm and line arg"
+[master 8973b13] Hello now prints command line arg
+ 2 files changed, 4 insertions(+)
+ create mode 100644 username.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': the     The-Cr3ator
+Password for 'https://The-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Th3-Cr3ator
+Password for 'https://Th3-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Th3-Cr3ator
+Password for 'https://Th3-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Th3-Cr3ator
+Password for 'https://Th3-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': The-Cr3ator
+Password for 'https://The-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': The-Creator     3ator
+Password for 'https://The-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+\Username for 'https://github.com': Th3 e-Cr3ator
+Password for 'https://\The-Cr3ator@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator/'
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Th3 e-Cr3ator
+Password for 'https://The-Cr3ator@github.com': 
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 490 bytes | 0 bytes/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/CSCI241Spring2019/lab-1-The-Cr3ator
+   b68cb75..8973b13  master -> master
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git checkout
+Your branch is up-to-date with 'origin/master'.
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git reset
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git rm
+usage: git rm [<options>] [--] <file>...
+
+    -n, --dry-run         dry run
+    -q, --quiet           do not list removed files
+    --cached              only remove from the index
+    -f, --force           override the up-to-date check
+    -r                    allow recursive removal
+    --ignore-unmatch      exit with a zero status even if nothing matched
+
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git mv
+usage: git mv [<options>] <source>... <destination>
+
+    -v, --verbose         be verbose
+    -n, --dry-run         dry run
+    -f, --force           force move/rename even if target exists
+    -k                    skip move/rename errors
+
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git blame
+usage: git blame [<options>] [<rev-opts>] [<rev>] [--] <file>
+
+    <rev-opts> are documented in git-rev-list(1)
+
+    --incremental         Show blame entries as we find them, incrementally
+    -b                    Show blank SHA-1 for boundary commits (Default: off)
+    --root                Do not treat root commits as boundaries (Default: off)
+    --show-stats          Show work cost statistics
+    --score-debug         Show output score for blame entries
+    -f, --show-name       Show original filename (Default: auto)
+    -n, --show-number     Show original linenumber (Default: off)
+    -p, --porcelain       Show in a format designed for machine consumption
+    --line-porcelain      Show porcelain format with per-line commit information
+    -c                    Use the same output mode as git-annotate (Default: off)
+    -t                    Show raw timestamp (Default: off)
+    -l                    Show long commit SHA1 (Default: off)
+    -s                    Suppress author name and timestamp (Default: off)
+    -e, --show-email      Show author email instead of name (Default: off)
+    -w                    Ignore whitespace differences
+    --minimal             Spend extra cycles to find better match
+    -S <file>             Use revisions from <file> instead of calling git-rev-list
+    --contents <file>     Use <file>'s contents as the final image
+    -C[<score>]           Find line copies within and across files
+    -M[<score>]           Find line movements within and across files
+    -L <n,m>              Process only line range n,m, counting from 1
+    --abbrev[=<n>]        use <n> digits to display SHA-1s
+
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git log
+[?1h=[33mcommit 8973b134737e76b3548375579f0a5d64c8b00ac4[m[m
+Author: Brendan May <mayb4@wwu.edu>[m
+Date:   Thu Apr 18 13:29:39 2019 -0700[m
+[m
+    Hello now prints command line arg[m
+[m
+[33mcommit b68cb75be3ce9c3bcd3b9232b44d19d9a275328c[m[m
+Author: Brendan May <brendanrmay@gmail.com>[m
+Date:   Thu Apr 11 11:18:05 2019 -0700[m
+[m
+    hello now prints line arg[m
+[m
+[33mcommit a63c71994e1774c7d2edafe7a9f88b26178a8269[m[m
+Author: Brendan May <brendanrmay@gmail.com>[m
+Date:   Thu Apr 11 10:27:26 2019 -0700[m
+[m
+    Added Brendan May to write up[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[K[?1l>mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git diff
+[?1h=[K[?1l>mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ git [K[K[K[Kls
+build  build.gradle  src  username.txt	writeup.txt
+mayb4@cf420-35:~/csci241/lab-1-The-Cr3ator$ exit
+exit
+
+Script done on Thu 18 Apr 2019 01:34:59 PM PDT
